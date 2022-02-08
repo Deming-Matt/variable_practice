@@ -13,3 +13,7 @@ pi = 3.141 # this is all i remember for pi
 happy = true
 hungry = false
 tired = true
+
+name = "Jessi"
+from = "Hawaii"
+favorite_animal = "Tigers"
